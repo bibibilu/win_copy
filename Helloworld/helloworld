@@ -1,0 +1,6 @@
+class MyPyCharmExample:
+    def my_print(self):
+        print("Hello World")
+
+
+MyPyCharmExample().my_print()
